@@ -4,6 +4,31 @@ const stop = document.getElementById("stop");
 const progress = document.getElementById("progress");
 const timestamp = document.getElementById("timestamp");
 
+// Play and pause video.
+toggleVideoStatus = () => {
+  return true;
+};
+
+// Updates the play and pause icons.
+updatePlayIcon = () => {
+  return true;
+};
+
+// Updates the progress of the video and the timestamp.
+updateProgress = () => {
+  return true;
+};
+
+// Sets the progress bar to the point in the video that the user clicks to.
+setVideoProgress = () => {
+  return true;
+};
+
+// Stops video.
+stopVideo = () => {
+  return true;
+};
+
 // Event listener to play the video when it is paused and pause the video when it is playing.
 video.addEventListener("click", toggleVideoStatus);
 // Event listener that updates the pause icon to change into a play icon when video is being paused.
