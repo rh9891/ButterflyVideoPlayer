@@ -34,7 +34,8 @@ setVideoProgress = () => {
 
 // Stops video.
 stopVideo = () => {
-  return true;
+  video.currentTime = 0;
+  video.pause();
 };
 
 // Event listener to play the video when it is paused and pause the video when it is playing.
