@@ -24,12 +24,12 @@ updatePlayIcon = () => {
 
 // Updates the progress of the video and the timestamp.
 updateProgress = () => {
-  return true;
+  progress.value = (video.currentTime / video.duration) * 100;
 };
 
 // Sets the progress bar to the point in the video that the user clicks to.
 setVideoProgress = () => {
-  return true;
+  video.currentTime = (+progress.value * video.duration) / 100;
 };
 
 // Stops video.
