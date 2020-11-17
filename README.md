@@ -32,7 +32,7 @@ SO THAT I
 
 ## Preview of the Butterfly Video Player
 
-![Butterfly Video Player Landing Page]()
+![Butterfly Video Player Landing Page](assets/images/butterflyVideoPlayerLandingPage.png)
 
 The following animation demonstrates the complete application functionality:
 
