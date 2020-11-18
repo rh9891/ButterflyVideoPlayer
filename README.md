@@ -16,6 +16,8 @@
 
 ## Description
 
+Butterfly Video Player is a mobile-responsive, Javascript video player application. The video player application is styled with customized CSS, utilizes a play, pause, and stop buttons, has a progress bar that functions to set to the point in the video that the user clicks to, and displays the time in minutes and seconds.
+
 ## User Story
 
 ```
