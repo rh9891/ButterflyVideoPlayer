@@ -29,6 +29,15 @@ SO THAT I
 ## Features of the Application
 
 ```
+GIVEN a video player application
+WHEN I click on the play icon
+THEN the video will start to play.
+
+WHEN I click on the pause icon
+THEN the video will pause.
+
+WHEN I click on the stop icon
+THEN the video will stop and set to the beginning.
 
 ```
 
@@ -40,7 +49,7 @@ The following animation demonstrates the complete application functionality:
 
 ![Butterfly Video Player Functionality Preview]()
 
-To download the above video file of the application functionality, you may do so [here]().
+To download the above video file of the application functionality, you may do so [here](https://github.com/rh9891/ButterflyVideoPlayer/blob/main/assets/videos/butterfly.mp4).
 
 ## Links
 
