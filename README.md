@@ -16,14 +16,14 @@
 
 ## Description
 
-Butterfly Video Player is a mobile-responsive, Javascript video player application. The video player application is styled with customized CSS, utilizes a play, pause, and stop buttons, has a progress bar that functions to set to the point in the video that the user clicks to, and displays the time in minutes and seconds.
+Butterfly Video Player is a mobile-responsive, Javascript video player application. The video player application is styled with customized CSS, utilizes play, pause, and stop buttons, has a progress bar that functions to set to the point in the video that the user clicks to, and displays the time in minutes and seconds.
 
 ## User Story
 
 ```
-AS A
-I WANT
-SO THAT I
+AS A user
+I WANT to launch and use a video player
+SO THAT I can be entertained and be kept engaged.
 ```
 
 ## Features of the Application
@@ -38,22 +38,15 @@ THEN the video will pause.
 
 WHEN I click on the stop icon
 THEN the video will stop and set to the beginning.
-
 ```
 
 ## Preview of the Butterfly Video Player
 
 ![Butterfly Video Player Landing Page](assets/images/butterflyVideoPlayerLandingPage.png)
 
-The following animation demonstrates the complete application functionality:
-
-![Butterfly Video Player Functionality Preview]()
-
-To download the above video file of the application functionality, you may do so [here](https://github.com/rh9891/ButterflyVideoPlayer/blob/main/assets/videos/butterfly.mp4).
-
 ## Links
 
-- [Deployed Application]()
+- [Deployed Application](rh9891.github.io/butterflyvideoplayer)
 
 - [Github Repository](https://github.com/rh9891/ButterflyVideoPlayer)
 
@@ -61,6 +54,7 @@ To download the above video file of the application functionality, you may do so
 
 Listed below are the frameworks, libraries, and guides that made building this application possible:
 
+- [Event Listeners](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 - [Javascript](https://www.w3schools.com/js/default.asp)
 - [Traversy Media Tutorials](https://www.traversymedia.com)
 - [Video and Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
