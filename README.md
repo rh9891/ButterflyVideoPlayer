@@ -46,7 +46,7 @@ THEN the video will stop and set to the beginning.
 
 ## Links
 
-- [Deployed Application](https://rh9891.github.io/butterflyvideoplayer)
+- [Deployed Application](https://rh9891.github.io/ButterflyVideoPlayer)
 
 - [Github Repository](https://github.com/rh9891/ButterflyVideoPlayer)
 
